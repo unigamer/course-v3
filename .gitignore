@@ -37,6 +37,9 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+nbs/dl1/data.zip
+
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
