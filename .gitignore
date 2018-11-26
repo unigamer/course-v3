@@ -7,7 +7,7 @@
 ~*
 tmp*
 tags
-*.jpg
+#*.jpg
 
 
 # Byte-compiled / optimized / DLL files
@@ -39,7 +39,7 @@ wheels/
 *.egg
 nbs/dl1/data.zip
 
-
+data/cycles
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
